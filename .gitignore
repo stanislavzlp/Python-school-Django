@@ -6,3 +6,5 @@ env
 
 # Файлы PyCharm
 .idea
+
+__pycache__
